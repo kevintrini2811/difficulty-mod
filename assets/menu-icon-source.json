@@ -1,0 +1,61 @@
+{
+  "reference": "../plant-library/tools/export_menu_assets.py",
+  "lawn_source": "/home/kevin/modding/pvzreplanted/plant-library/assets/lawn.png",
+  "lawn_provenance": {
+    "bundle": "/mnt/FastGaming1/SteamLibrary/steamapps/common/PVZ Replanted/Replanted_Data/StreamingAssets/aa/StandaloneWindows64/backgroundatlases_assets_all_19e402bc532d2cf4f6d062dcf0b108ec.bundle",
+    "bundle_sha256": "26f735ae00c9cdf3e99bccfd29395741d5283c40e4b139f0350a007b5e510328",
+    "sprite": "Area1_Lawn",
+    "path_id": -5079667051938085663,
+    "crop": [
+      1100,
+      600,
+      4000,
+      1800
+    ],
+    "size": [
+      1450,
+      600
+    ],
+    "icon_bundle": "/mnt/FastGaming1/SteamLibrary/steamapps/common/PVZ Replanted/Replanted_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets/art/characters/previews_f999564bc5382eb85495ec50c887a03d.bundle",
+    "icon_bundle_sha256": "5a86159432b5bbcfdf2e2349f50e12d3f3baec0dad457776a7453cbd80da51e4",
+    "icon_sprite": "SPR_Preview_PeaShooter",
+    "icon_path_id": 3333466314890536487,
+    "icon_size": [
+      512,
+      512
+    ],
+    "foreground_bounds": [
+      440,
+      440
+    ],
+    "foreground_bottom": 28,
+    "assets": {
+      "lawn.png": "69d7031ca62475ab0ecf1c2b7999318501215b2e0aeb5f3dbc29a4c9bc8d99da",
+      "peashooter.png": "263ff77ef0be0ef41b07c6ce13f25883fa0b6ceb19b9583ce5ffc01893bc76c2",
+      "menu-icon.png": "21ddfac5abc5b0fea6e9139d2acd32d4c3b6b1343c0f0d8ba3adfb13cd6a2d53"
+    }
+  },
+  "trophy_provenance": {
+    "sprite": "SPR_Challenges_Trophy",
+    "path_id": -8573436934360524815,
+    "output_sha256": "7f8729606664fee34c218510b60f0495a95c1cdab825d3605b33178057be49fb",
+    "inputs": {
+      "Replanted_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_ui/sprites_5b5218033ecdc00622a31e94d7a6a379.bundle": "4515929ed5d3ba49c790a443c187966535bbd0ebb00c5d4fedadc0cd1d377a6a",
+      "Replanted_Data/StreamingAssets/aa/StandaloneWindows64/uiatlasshared_assets_all.bundle": "a1ab874d5f737c422743b8e10b209b3b3ceb3f93d23a9419fe277670387d09a1"
+    }
+  },
+  "size": [
+    512,
+    512
+  ],
+  "foreground_bounds": [
+    440,
+    440
+  ],
+  "foreground_bottom": 28,
+  "assets": {
+    "lawn.png": "69d7031ca62475ab0ecf1c2b7999318501215b2e0aeb5f3dbc29a4c9bc8d99da",
+    "trophy.png": "7f8729606664fee34c218510b60f0495a95c1cdab825d3605b33178057be49fb",
+    "menu-icon.png": "38487a95e29b4396fc7c43ecd9acdcea6e15ccae2b643c5e09f7ee63f3836911"
+  }
+}
